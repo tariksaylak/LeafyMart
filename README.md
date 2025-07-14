@@ -1,6 +1,6 @@
-# GreenNest – React + Redux Plant Shop
+# Leafy Mart – React + Redux Plant Shop
 
-**GreenNest** is a responsive plant shop built with React, Redux Toolkit, and React Router.  
+**LeafyMart** is a responsive plant shop built with React, Redux Toolkit, and React Router.  
 This project is a continuation of a foundational React application, expanded to include global state management and multi-page routing.
 
 ## 🌿 Features
